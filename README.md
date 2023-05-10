@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jenishdangar96@gmail.com**
 
-- ⚡ Fun fact **fitness lover , sport person**
+- ⚡ Fun fact **fitness lover , sports person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
