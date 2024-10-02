@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jenish dangar" target="blank"><img src="https://img.shields.io/twitter/follow/jenish dangar?logo=twitter&style=for-the-badge" alt="jenish dangar" /></a> </p>
 
-- 🔭 I’m currently working on **Penetration tool**
+- 🔭 worked on **Penetration tool**
 
-- 📫 How to reach me **jenishdangar96@gmail.com**
+- **Love for Business studies**
+
+- 📫 How to reach me **jenishdangarai@gmail.com**
 
 - ⚡ Fun fact **fitness lover , sports person**
 
